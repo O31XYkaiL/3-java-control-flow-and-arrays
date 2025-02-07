@@ -9,5 +9,5 @@
 И так далее.
 
 ```java
-static void selectionSort(int[] arr)
+static void selectionSort(int[] arr);
 ```
